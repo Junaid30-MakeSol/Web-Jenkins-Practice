@@ -22,8 +22,6 @@ namespace Web_Jenkins_Practice.Controllers
         {
             return View();
             // new features addes
-
-            // dsadsa
         }
 
         public IActionResult Privacy()
